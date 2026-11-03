@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "US entry-labeled software listings: screening file"
+version: "2026-10-11c"
+authors:
+  - name: "Global Software Companies"
+    website: "https://www.globalsoftwarecompanies.com/"
+license: CC-BY-4.0
+url: "https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file"
+repository-code: "https://github.com/global-software-companies-com/entry-level-software-listings-screening-file"
+keywords:
+  - "entry-level jobs"
+  - "software engineering"
+  - "software developer"
+  - "job postings"
+  - "LinkedIn"
+  - "work experience requirements"
+  - "years of experience"
+  - "AI training work"
+  - "labor market"
+  - "United States"

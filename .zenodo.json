@@ -1,0 +1,42 @@
+{
+  "upload_type": "dataset",
+  "title": "US entry-labeled software listings: screening file",
+  "version": "2026-10-11c",
+  "creators": [
+    {
+      "name": "Global Software Companies"
+    }
+  ],
+  "description": "<p>Global Software Companies’ experience coding for all 5,625 US software listings labeled “Entry level” on LinkedIn that we screened, posted between January and August 2026 (about 4 in 5 in July and August). It lets you check the figures in our article on how much experience “entry-level” software jobs ask for. The narrower <em>US entry-labeled software job listings</em> dataset (2,517 listings) was selected from these.</p><p><strong>Files</strong></p><ul><li><code>screening.csv</code>: one row per listing, 19 columns: the experience required, any sign in the listing itself that the role is junior, the type of role, whether it was AI-training work, the state, and how closely the experience value was reviewed. Rows also in the jobs dataset link to it through <code>release_job_id</code>. For listings outside the jobs dataset, no listing text, titles, advertisers, locations, posting dates or pay are released.</li><li><code>aggregates.csv</code>: 231 rows: every published figure from the article, with numerator, denominator and population, including figures that can’t be released listing by listing, such as pay medians.</li><li><code>FIELD-GUIDE.md</code> defines every column. <code>REPRODUCE.md</code> and <code>reproduce.py</code> recompute the headline figures from <code>screening.csv</code>. <code>manifest.json</code> records file hashes and counts. <code>LICENSE.md</code> gives the license terms.</li></ul><p><strong>Which listings are included</strong></p><p>From a collection of 96,309 US LinkedIn software listings posted January–August 2026, the 5,625 labeled “Entry level” whose titles contain “software” plus developer, engineer or programmer, and none of senior, manager, director, instructor, tutor, sales or recruiter.</p><p><strong>Method</strong></p><p>Required professional experience was classified with AI assistance under written rules. A stated number of years counts only when the listing presents it as professional, industry or work experience, or as software development experience in general. Which listings were AI-training work was checked listing text by listing text, with two independent AI coders and a third review of disagreements and close calls. A Global Software Companies researcher checked about 1 in 5 of the AI classifications by hand and reviewed the edge cases those checks identified; this is a spot check, not a measured accuracy rate.</p><p><strong>Limits</strong></p><p>These are selected listings, not a representative sample of the US job market or of unique vacancies. “Listings” counts what job-seekers see, including reposts; “unique listings” counts each identical description once. The uneven posting dates don’t support trends over time.</p><p><strong>More:</strong> full documentation, the article and the other GSC datasets are at <a href=\"https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file\">https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file</a></p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "entry-level jobs",
+    "software engineering",
+    "software developer",
+    "job postings",
+    "LinkedIn",
+    "work experience requirements",
+    "years of experience",
+    "AI training work",
+    "labor market",
+    "United States"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file",
+      "relation": "isDocumentedBy"
+    },
+    {
+      "identifier": "https://www.globalsoftwarecompanies.com/entry-level-software-jobs-experience-2026/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://github.com/global-software-companies-com/us-entry-level-software-job-listings",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    }
+  ]
+}

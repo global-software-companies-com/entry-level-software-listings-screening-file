@@ -1,0 +1,37 @@
+{
+  "dataset": "screening",
+  "title": "US entry-labeled software listings: screening file",
+  "version": "2026-10-11c",
+  "publisher": "Global Software Companies",
+  "publisher_url": "https://www.globalsoftwarecompanies.com/",
+  "license": "CC-BY-4.0",
+  "license_scope": "GSC contribution",
+  "files": {
+    "screening.csv": {
+      "sha256": "859ec0b7d2f0fb3774524e71074d4a9d4bcca06d011003c1dfab4f4c0c855ddd",
+      "rows": 5625,
+      "columns": 19
+    },
+    "aggregates.csv": {
+      "sha256": "67bf939bd88628549868d68d2dd6d54b4341a28dd01ec71e9a46e5553e506ded",
+      "rows": 231,
+      "columns": 11
+    },
+    "README.md": {
+      "sha256": "35c5a9ab5e4d590e203c21e707aab0b50390a87224bacdc8705e7bc01d2dc8d3"
+    },
+    "FIELD-GUIDE.md": {
+      "sha256": "f6f75c605c3e0e926fd4d401f0896e13e58e7a2730478d9536ae5313326ebd3c"
+    },
+    "REPRODUCE.md": {
+      "sha256": "bf91cdbb1b30e755172123e90670ef0b9603c4df1ab2c1783413be408e64ad3d"
+    },
+    "reproduce.py": {
+      "sha256": "10626cfda35542b0bc07225a584b51f09d785ce2d7fa46fb1517704c1cccae54"
+    },
+    "LICENSE.md": {
+      "sha256": "fcd1020a740a351cac9255e6e057908187508bb1a93ceb0b6eec0e2cef9e3d89"
+    }
+  },
+  "documentation_url": "https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file"
+}
