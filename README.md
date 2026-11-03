@@ -6,6 +6,8 @@ Research by **Global Software Companies**. Version **2026-10-11c**.
 
 Documentation, downloads and citation: [www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file](https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file). Used in: [We Analyzed 5,625 “Entry-Level” Software Jobs. Only 9% Explicitly Accepted Beginners.](https://www.globalsoftwarecompanies.com/entry-level-software-jobs-experience/).
 
+Also available on [Zenodo](https://doi.org/10.5281/zenodo.23917043), [Kaggle](https://www.kaggle.com/datasets/globalsoftwarecompan/entry-level-software-listings-screening-file) and [Hugging Face](https://huggingface.co/datasets/GlobalSoftwareCompanies/entry-level-software-listings-screening-file).
+
 This package lets you check the figures in two GSC articles: how many "entry-level" software jobs require experience (#1), and AI-training listings (#5). Both draw on **5,625 US software listings labeled "Entry level" on LinkedIn** (January–August 2026), more than the 2,517 in GSC's published jobs dataset, *US entry-labeled software job listings*.
 
 - `screening.csv`: one row per screened listing with GSC's coding (experience required, entry-level evidence, role group, AI-training flag, state, review depth). It has no listing text and no LinkedIn identifiers, titles, advertiser names, locations, posting dates or pay for listings outside the jobs dataset. Rows that are in the jobs dataset link to it through `release_job_id`.
