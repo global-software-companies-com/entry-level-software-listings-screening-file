@@ -1,5 +1,7 @@
 # US entry-labeled software listings: screening file
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23917043.svg)](https://doi.org/10.5281/zenodo.23917043)
+
 Research by **Global Software Companies**. Version **2026-10-11c**.
 
 Documentation, downloads and citation: [www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file](https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file). Used in: [We Analyzed 5,625 “Entry-Level” Software Jobs. Only 9% Explicitly Accepted Beginners.](https://www.globalsoftwarecompanies.com/entry-level-software-jobs-experience/).
@@ -23,4 +25,4 @@ These are selected listings, not a representative sample of the US jobs market o
 
 The GSC contribution is licensed under CC BY 4.0 (see LICENSE.md). Suggested citation:
 
-> Global Software Companies (2026). *US entry-labeled software listings: screening file*. Version 2026-10-11c. https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file. CC BY 4.0.
+> Global Software Companies (2026). *US entry-labeled software listings: screening file*. Version 2026-10-11c. https://doi.org/10.5281/zenodo.23917043. Documentation: https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file. CC BY 4.0.
