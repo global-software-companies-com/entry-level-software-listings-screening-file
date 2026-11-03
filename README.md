@@ -2,7 +2,7 @@
 
 Research by **Global Software Companies**. Version **2026-10-11c**.
 
-Documentation, downloads and citation: [www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file](https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file). Used in: [We Analyzed 5,625 “Entry-Level” Software Jobs. Only 9% Explicitly Accepted Beginners.](https://www.globalsoftwarecompanies.com/entry-level-software-jobs-experience-2026/).
+Documentation, downloads and citation: [www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file](https://www.globalsoftwarecompanies.com/research-data/#entry-level-screening-file). Used in: [We Analyzed 5,625 “Entry-Level” Software Jobs. Only 9% Explicitly Accepted Beginners.](https://www.globalsoftwarecompanies.com/entry-level-software-jobs-experience/).
 
 This package lets you check the figures in two GSC articles: how many "entry-level" software jobs require experience (#1), and AI-training listings (#5). Both draw on **5,625 US software listings labeled "Entry level" on LinkedIn** (January–August 2026), more than the 2,517 in GSC's published jobs dataset, *US entry-labeled software job listings*.
 
